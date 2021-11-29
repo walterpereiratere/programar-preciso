@@ -1,0 +1,25 @@
+Prezado Leandro:
+
+AMANHÃ (SEGUNDA) A GENTE RESOLVE 
+
+Estou anotando para não esquecer.
+
+Ontem (sábado), logo no início dos estudos do GitHub (que foi a tarefa passada pelo Sr. para eu continuar aprender os segredos da tecnologia), notei que a pedido do professor Git, ao criar uma pasta na área de trabalho com o botão direito do mouse, com o nome .git, o Ubuntu disse que pastas com nome que se inicia com .(ponto), seriam ocultadas. Não liguei, não sabia das consequencias.
+
+Acontece que o teacher Git usa windows no curso, e a pasta que ele criou .git, aparece na tela.
+
+Bom, fui em frente. Fui indo, fui indo e percebendo que ao abrir o terminal para realizar os trabalhos que o teacher Git pedia, quando dava enter no git status aparecia sempre a seguinte linha: 
+
+fatal: not a git repository (or any of the parent directories): .git
+
+Na minha ignorância da língua inglesa e desenvolverista (ahahah) entendo que o GitHub, lá nas nuvens, não consegue ver a tal pasta que o danado do Ubuntu ocultou. (isso não é filosofia Ubuntu!). Quem manda ficar tão longe!
+
+Eu fazia o seguinte: tentava abrir nova pasta .git, o que o tal Ubuntu me informava que a tal pasta já existia. Existia, mas ninguém, nem o GitHub, conseguia ver.
+
+Continuei, e o FATAL sempre presente. Claro que ele achando que eu vou desistir! (MEU NOME É NUNCA DESISTIR!).
+
+Hoje(domingo), ao reiniciar os meus estudos de programação, entendi que preciso de socorro, pois na hora de colar o endereço de meu repositório que salvei (confesso que senti uma extase enorme) lá no GitHub, um https da vida, o tal não colava na janela de trabalho de jeito nenhum, nem com superbonder. Digitei letra por letra, caractere por caractere, e não adiantou, pois o Ubuntu continua dizendo que tem o tal FATAL. Quem mandou ocultar minha pasta .git
+
+Amanhã o Sr. me socorre? Desculpe o incômodo! Obrigado, bom domingo!
+
+(Talvez eu descubra que não é nada disso, que esses percalços fazem parte do ato de aprender programação. Programar é Preciso. Viver não é Preciso. (Já dizia aquele português famoso, ótima pessoa.
